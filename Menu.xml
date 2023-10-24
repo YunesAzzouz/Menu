@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Menu.xsd">
+    <Primi>
+        <piatto>
+            <nome>Spaghetti Bolognese</nome>
+            <prezzo>7.50</prezzo>
+        </piatto>
+        
+        <piatto>
+            <nome>Spaghetti Carbonara</nome>
+            <prezzo>7.70</prezzo>
+        </piatto>
+
+        <piatto>
+            <nome>Tagliatelle ai porcini</nome>
+            <prezzo>11.20</prezzo>
+        </piatto>
+    </Primi>
+
+    <Secondi>
+        <piatto>
+            <nome>Polpette al sugo</nome>
+            <prezzo>7</prezzo>
+        </piatto>
+
+        <piatto>
+            <nome>Parmigiana di melanzane</nome>
+            <prezzo>6</prezzo>
+        </piatto>
+    </Secondi>
+
+    <Contorni>
+        <piatto>
+            <nome>Insalata</nome>
+            <prezzo>2</prezzo>
+        </piatto> 
+        
+        <piatto>
+            <nome>Patatine fritte</nome>
+            <prezzo>3</prezzo>
+        </piatto>  
+    </Contorni>
+
+    <Dessert>
+        <piatto>
+            <nome>Tiramisu</nome>
+            <prezzo>7</prezzo>
+        </piatto>
+
+        <piatto>
+            <nome>Torta della nonna</nome>
+            <prezzo>5</prezzo>
+        </piatto>
+    </Dessert>
+</menu>
